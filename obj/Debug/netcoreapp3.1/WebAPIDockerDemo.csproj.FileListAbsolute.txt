@@ -1,0 +1,9 @@
+D:\ASP .net projects\WebAPIDockerDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ASP .net projects\WebAPIDockerDemo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ASP .net projects\WebAPIDockerDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\ASP .net projects\WebAPIDockerDemo\obj\Debug\netcoreapp3.1\WebAPIDockerDemo.csprojAssemblyReference.cache
+D:\ASP .net projects\WebAPIDockerDemo\obj\Debug\netcoreapp3.1\WebAPIDockerDemo.AssemblyInfoInputs.cache
+D:\ASP .net projects\WebAPIDockerDemo\obj\Debug\netcoreapp3.1\WebAPIDockerDemo.AssemblyInfo.cs
+D:\ASP .net projects\WebAPIDockerDemo\obj\Debug\netcoreapp3.1\WebAPIDockerDemo.RazorTargetAssemblyInfo.cache
+D:\ASP .net projects\WebAPIDockerDemo\obj\Debug\netcoreapp3.1\staticwebassets\WebAPIDockerDemo.StaticWebAssets.Manifest.cache
+D:\ASP .net projects\WebAPIDockerDemo\obj\Debug\netcoreapp3.1\staticwebassets\WebAPIDockerDemo.StaticWebAssets.xml
